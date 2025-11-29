@@ -1,10 +1,5 @@
 # Sistem Manajemen Kursus "DNAstudio Training Center"
 
-## Informasi Mahasiswa
-- **Nama**  : David Andriansyah  
-- **NIM**   : 1001250020  
-- **Prodi** : Sistem Informasi  
-
 ## Deskripsi Aplikasi
 Aplikasi **Sistem Manajemen Kursus "DNAstudio Training Center"** adalah program berbasis console (terminal)
 yang dibuat menggunakan bahasa pemrograman **Java** dengan paradigma **Pemrograman Berorientasi Objek (PBO)**.
